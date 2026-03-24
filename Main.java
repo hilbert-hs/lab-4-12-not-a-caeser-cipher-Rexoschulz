@@ -14,7 +14,7 @@ class main {
 
   System.out.println();
 
-  Cipher cipher3 = new Cipher(5, 4);
+  Cipher cipher3 = new Cipher(9, 4);
   System.out.println(cipher3.encryptMessage("Hilbert will win at state robotics."));
 
 
